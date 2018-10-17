@@ -1,7 +1,7 @@
 *Read this in other languages: [中国](README-cn.md), [한국어](README-ko.md), [日本](README-ja.md), [português](README-pt.md)
 # Marbles Demo
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/naisofly/gitexMarbles)
+[![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/naisofly/gitexMarbles&branch=master)
 
 ## About Marbles
 - The underlying network for this application is the [Hyperledger Fabric](https://github.com/hyperledger/fabric/tree/master/docs), a Linux Foundation project.  You may want to review these instructions to understand a bit about the Hyperledger Fabric.
